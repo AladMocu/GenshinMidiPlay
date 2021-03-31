@@ -11,7 +11,9 @@ There are 2 main ways to use this scripts:
 
 the main diference whitin this modes its the final sound, with the Instrument mode you can get one playable file per instrument in the original MIDI song, and with the Song mode it will give you one single file for the song.
 
-  
+## Python dependences  
+    -   pretty_midi
+    -   pyautogui
 
 ## Instrument Script
 
